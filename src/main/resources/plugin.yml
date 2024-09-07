@@ -1,0 +1,11 @@
+name: RPG-PLUGIN
+main: pl.blackwater.rpg.RPG
+version: 3.0-BETA
+author: CzarnaWoda
+api-version: 1.16
+depend:
+  - SpigotPlugin
+  - MythicMobs
+  - DecentHolograms
+softdepend:
+  - ProtocolLib
